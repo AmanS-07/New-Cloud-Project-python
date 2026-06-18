@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 import streamlit as st
-from pages import home, recommend, history, compare
+from frontend.pages import home, recommend, history, compare
 
 
 def main() -> None:
