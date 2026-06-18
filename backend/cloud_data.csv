@@ -1,0 +1,7 @@
+provider,service,region,workload,budget_class,availability,cost_rating,performance_rating
+AWS,EC2,US East,Web App,Medium,High,4,5
+Azure,Virtual Machines,Europe,Enterprise,High,High,3,4
+GCP,Compute Engine,Asia Pacific,Machine Learning,Medium,Standard,4,5
+AWS,Elastic Beanstalk,US East,Web App,Low,Standard,4,4
+Azure,Azure ML,US East,Machine Learning,High,High,3,5
+GCP,BigQuery,Europe,Data Analytics,Medium,High,4,4
